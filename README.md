@@ -1,8 +1,7 @@
 
 # Health-Care-Utilization
 
-This is the final project submission for **CMPT 732 - Big Data Lab 1**. The original repository can be found here - https://github.com/bhvya1505/health-care-utilization
-
+This project is done in collaboration with @bms18 @sha392 @dma155
 The dataset used is **Oh Canada! Sample of Canadian FHIR Data** (124 MB), consisting of synthetic Canadian patient data spread across provinces. The dataset can be found here: [Oh Canada! Dataset](https://synthea.mitre.org/downloads).
 
 ## Project Overview
