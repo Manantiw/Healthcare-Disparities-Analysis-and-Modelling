@@ -1,7 +1,7 @@
 
 # Health-Care-Utilization
 
-This project is done in collaboration with @bms18 @sha392 @dma155
+This project is done in collaboration with @bms18 @sha392 @dma155.
 The dataset used is **Oh Canada! Sample of Canadian FHIR Data** (124 MB), consisting of synthetic Canadian patient data spread across provinces. The dataset can be found here: [Oh Canada! Dataset](https://synthea.mitre.org/downloads).
 
 ## Project Overview
